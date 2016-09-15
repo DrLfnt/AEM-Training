@@ -16,6 +16,7 @@ body::before {
        (max-width: 1024px) and (max-resolution: 1.5dppx) {
   body::before {
     background-image: url('images/bg_1024.jpg');
+    background-size: cover;
   }
 }
 @media (min-width: 513px)  and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5),
@@ -24,6 +25,7 @@ body::before {
        (min-width: 1025px) and (max-width: 2048px) and (max-resolution: 1.5dppx)  {
   body::before {
     background-image: url('images/bg_2048.jpg');
+    background-size: cover;
   }
 }
 @media (min-width: 1025px) and (-webkit-min-device-pixel-ratio: 1.5),
@@ -32,6 +34,7 @@ body::before {
        (min-width: 2049px) and (max-resolution: 1.5dppx) {
   body::before {
     background-image: url('images/bg_2880.jpg');
+    background-size: cover;
   }
 }
 body .aem-training {
@@ -171,16 +174,16 @@ body .aem-training {
           flex-direction: column;
 }
 .aem-training .video-1 .mdl-card__media {
-  background-image: url('images/coffee.jpg');
+  background-image: url('images/477x292.jpg');
 }
 .aem-training .video-2 .mdl-card__media {
-  background-image: url('images/coffee.jpg');
+  background-image: url('images/477x292.jpg');
 }
 .aem-training .video-3 .mdl-card__media {
-  background-image: url('images/coffee.jpg');
+  background-image: url('images/477x292.jpg');
 }
 .aem-training .video-4 .mdl-card__media {
-  background-image: url('images/coffee.jpg');
+  background-image: url('images/477x292.jpg');
 }
 .aem-training .aem-text .mdl-card__media {
   display: -webkit-flex;
@@ -276,7 +279,7 @@ body .aem-training {
   background-color: transparent;
 }
 .aem-training--nameplate .aem-training__nameplate > .mdl-card .mdl-card__media {
-  background-image: url('images/road_big.jpg');
+  background-image: url('images/1568x588.jpg');
   height: 100px;
 }
 .aem-training--nameplate .comments {
@@ -464,7 +467,7 @@ body .aem-training {
       -ms-flex-align: center;
               -ms-grid-row-align: center;
           align-items: center;
-  background-color: white;
+  background-color: transparent;
   box-sizing: border-box;
 }
 
@@ -476,6 +479,14 @@ body .aem-training {
     right: 0;
     bottom: 0;
     margin-right: 40px;
+    margin-bottom: 40px;
+    z-index: 900;
+  }
+  #all {
+    position: fixed;
+    display: block;
+    bottom: 0;
+
     margin-bottom: 40px;
     z-index: 900;
   }
