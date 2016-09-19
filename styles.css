@@ -93,7 +93,6 @@ body .aem-training {
   -webkit-align-items: flex-end;
       -ms-flex-align: end;
           align-items: flex-end;
-  cursor: pointer;
 }
 .aem-training .mdl-card__media a,
 .aem-training .mdl-card__title a {
