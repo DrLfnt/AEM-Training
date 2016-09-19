@@ -3,49 +3,49 @@ VIDEOS
 1.-		AEM Training - Introduction to Ford AEM GUX
 		https://youtu.be/90NnPxup9Zw
 
-2.-		AEM Training - Content Publishing Site Setup and Configuration
+2.-		AEM Training - Site Setup and Configuration
 		https://youtu.be/2lyG4HTITKo
 
-3.-		AEM Training - Content Publishing General Site Structure
+3.-		AEM Training - General Site Structure
 		https://youtu.be/l-qg3mGXomM
 
-4.-		AEM Training - Content Publishing DAM and Configuration
+4.-		AEM Training - DAM and Configuration
 		https://youtu.be/Euf58SzE5hE
 
-5.-		AEM Training - Content Publishing SEO and OG Tagging
+5.-		AEM Training - SEO and OG Tagging
 		https://youtu.be/_ZNk6hi6bYQ
 
-6.-		AEM Training - Content Publishing Templates and Components (part 1)
+6.-		AEM Training - Templates and Components (part 1)
 		https://youtu.be/NUPP1HfJXxc
 
-7.-		AEM Training - Content Publishing Templates and Components (part 2)
+7.-		AEM Training - Templates and Components (part 2)
 		https://youtu.be/Z_CwenJBbk8
 
-8.-		AEM Training - Ford Credit Content Publishing (Phase 2/P2)
+8.-		AEM Training - Ford Credit (Phase 2/P2)
 		https://youtu.be/zW_zOJIcUcg
 
-9.-		AEM Training - Content Publishing Owner Portal  (Phase 2)
-		https://youtu.be/g6hR7m4GCkU
-
-10.-	AEM Training - Publishing Maintenance Request Process
+9.-		AEM Training - Publishing Maintenance Request Process
 		https://youtu.be/2nb39PYHQ9s
 
-11.-	AEM Training – Content Publishing VDM
-		https://youtu.be/eeHp7NZmhEI
-
-12.-	AEM Training – Content Publishing Ford AEM Forms
-		https://youtu.be/Aani74MQmgk
-
-13.-	AEM Training – Content Publishing Live Copy
-		https://youtu.be/xG1LRV43Z7s
-
-14.-	AEM Training - Ford GUX AMC Analytics and Experience Targeting
+10.-	AEM Training - Ford GUX AMC Analytics and Experience Targeting
 		https://youtu.be/uoBS39ChoOU
 
-15.-	AEM Training - Owner Portal Content Publishing Session 2 (Phase 2) 
+11.-	AEM Training – VDM
+		https://youtu.be/eeHp7NZmhEI
+
+12.-	AEM Training – Ford AEM Forms
+		https://youtu.be/Aani74MQmgk
+
+13.-	AEM Training – Live Copy
+		https://youtu.be/xG1LRV43Z7s
+
+14.-	AEM Training - Owner Portal  (Phase 2)
+		https://youtu.be/g6hR7m4GCkU
+
+15.-	AEM Training - Owner Portal Session 2 (Phase 2) 
 		https://youtu.be/Ttn1Vy_N3Xo
 
-16.-	AEM Training - Content Publishing Credit and B&P (Phase 2)
+16.-	AEM Training - Credit and B&P (Phase 2)
 		https://youtu.be/MB36lY7XCa8
 
 
