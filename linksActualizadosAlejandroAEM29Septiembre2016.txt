@@ -48,6 +48,9 @@ VIDEOS
 16.-	AEM Training - Credit and B&P (Phase 2)
 		https://youtu.be/MB36lY7XCa8
 
+17.-	AEM Training - Content Publishing Q&A (Phase 1)
+		https://youtu.be/6zENVuDzwx0
+
 
 DOCUMENTOS / GUIAS / MANUALES
 
@@ -58,3 +61,6 @@ AEM – Paquete con materiales
 https://jwt-my.sharepoint.com/personal/alejandro_morales_gtb_com/_layouts/15/guestaccess.aspx?guestaccesstoken=C8k9NwcSBFLCPy%2bk6PcaEZYYQ0HLUNeSIRXG4bgBoGY%3d&docid=100fae1433a5f4947b16e1f2738075e75&rev=1
 
 http://pubhub-latam.net/assets/adobe/AMC.zip
+
+Market Training - AMC GUX Analytics & Target For SA 190929
+https://jwt-my.sharepoint.com/personal/alejandro_morales_gtb_com/_layouts/15/guestaccess.aspx?guestaccesstoken=MEXe7duf2j1HV5gKTN%2bRq8WbjKFBTN9JdhYwgfwlfOk%3d&docid=1456fb120de79425298c89e8156831a03&rev=1
