@@ -51,6 +51,18 @@ VIDEOS
 17.-	AEM Training - Content Publishing Q&A (Phase 1)
 		https://youtu.be/6zENVuDzwx0
 
+18.-	AEM Training - VDM Training Part 1
+		https://youtu.be/WipQvEaL1tk
+
+19.-	AEM Training - VDM Training Part 2
+		https://youtu.be/NzSuoYPX3Ro
+
+20.-	AEM Training - VDM Training Part 3
+		https://youtu.be/DckYS9aAPXA
+
+21.-	AEM Training - New VDM UI Training
+		https://youtu.be/_LSmQc6fTj0
+
 
 DOCUMENTOS / GUIAS / MANUALES
 
